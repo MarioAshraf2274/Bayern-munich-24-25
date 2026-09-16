@@ -1,3 +1,4 @@
+# ⚽ FC Bayern Munich Performance Analytics (2024-25) 
 An end-to-end, enterprise-grade Power BI Data Analytics and Performance Engineering Solution evaluating FC Bayern Munich's competitive output across the 2024-25 season. This project transforms unstructured match data and granular player-level logs into an interactive, decision-ready analytics dashboard built upon a clean Star Schema relational architecture.
 To explore the full visual interface, interactive slicers, and dynamic cross-filtering capabilities, you can watch the LinkedIn Demo Video.
 🎯 Business Problem and Analytical Objectives
